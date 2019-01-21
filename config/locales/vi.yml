@@ -2,7 +2,9 @@ vi:
   static_pages:
     home:
       home: "Trang Chủ"
+      Wel_App: "Chào mừng bạn đến với Ứng dụng mẫu"
       sample_app: "Ứng dụng mẫu"
+      Sign_now: "Đăng ký bây giờ"
       content_html: "Đây là trang chủ cho ứng dụng mẫu %{link1}"
       ror_ttr_sa: "Ruby on Rails Sample App"
     about:
@@ -22,3 +24,16 @@ vi:
       content_html: "Liên hệ với Hướng dẫn về Ruby on Rails về ứng dụng mẫu tại %{link1}."
       contact_page: "trang liên lạc"
       ror_ttr_sa: "Ruby on Rails Sample App"
+  users:
+    new:
+      Su: "Đăng ký"
+      content_html: "Đây sẽ là trang đăng ký cho người dùng mới."
+  Rails: "Ruby on Rails Tutorial"
+  by: "bởi"
+  about: "Thuộc Về"
+  contact: "Liên hệ"
+  new: "Mới"
+  sa: "Ứng Dụng Mẫu"
+  home: "Trang Chủ"
+  help: "Trợ Giúp"
+  log_in: "Đăng Nhập"

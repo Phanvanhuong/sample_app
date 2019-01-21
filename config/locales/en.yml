@@ -2,7 +2,9 @@ en:
   static_pages:
     home:
       home: "Home"
+      Wel_App: "Welcome to the Sample App"
       sample_app: "Sample_app"
+      Sign_now: "Sign up now"
       content_html: "This is the home page for the %{link1} sample application"
       ror_ttr_sa: "Ruby on Rails Sample App"
     about:
@@ -22,3 +24,16 @@ en:
       content_html: "Contact the Ruby on Rails Tutorial about the sample app at the %{link1}."
       contact_page: "contact page"
       ror_ttr_sa: "Ruby on Rails Sample App"
+  users:
+    new:
+      Su: "Sign up"
+      content_html: "This will be a signup page for new users."
+  Rails: "Ruby on Rails Tutorial"
+  by: "by"
+  about: "About"
+  contact: "Contact"
+  new: "New"
+  sa: "sample app"
+  home: "Home"
+  help: "Help"
+  log_in: "Log in"
