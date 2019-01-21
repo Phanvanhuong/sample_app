@@ -1,0 +1,24 @@
+vi:
+  static_pages:
+    home:
+      home: "Trang Chủ"
+      sample_app: "Ứng dụng mẫu"
+      content_html: "Đây là trang chủ cho ứng dụng mẫu %{link1}"
+      ror_ttr_sa: "Ruby on Rails Sample App"
+    about:
+      about: "Thuộc Về"
+      content_html: "%{link1} là %{link2} và %{link3} để dạy phát triển web với %{link4}. Đây là ứng dụng mẫu cho hướng dẫn."
+      book: "sách"
+      screencast_series: "Màn hình hướng dẫn"
+      ror_ttr_sa: "Ruby on Rails Sample App"
+    help:
+      help: "Trợ Giúp"
+      content_html: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại %{link1}. Để nhận trợ giúp về ứng dụng mẫu này, hãy xem %{link2}."
+      Rails_ttr_hp_st: "Rails Tutorial help section"
+      Ror_ttr: "Ruby on Rails Tutorial"
+      ror_ttr_sa: "Ruby on Rails Sample App"
+    contact:
+      contact: "Liên Hệ"
+      content_html: "Liên hệ với Hướng dẫn về Ruby on Rails về ứng dụng mẫu tại %{link1}."
+      contact_page: "trang liên lạc"
+      ror_ttr_sa: "Ruby on Rails Sample App"
