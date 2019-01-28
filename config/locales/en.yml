@@ -2,9 +2,9 @@ en:
   static_pages:
     home:
       home: "Home"
-      Wel_App: "Welcome to the Sample App"
+      wel_app: "Welcome to the Sample App"
       sample_app: "Sample_app"
-      Sign_now: "Sign up now"
+      sign_now: "Sign up now"
       content_html: "This is the home page for the %{link1} sample application"
       ror_ttr_sa: "Ruby on Rails Sample App"
     about:
@@ -16,8 +16,8 @@ en:
     help:
       help: "Help"
       content_html: "Get help on the Ruby on Rails Tutorial at the %{link1}. To get help on this sample app, see the %{link2}."
-      Rails_ttr_hp_st: "Rails Tutorial help section"
-      Ror_ttr: "Ruby on Rails Tutorial"
+      rails_ttr_hp_st: "Rails Tutorial help section"
+      ror_ttr: "Ruby on Rails Tutorial"
       ror_ttr_sa: "Ruby on Rails Sample App"
     contact:
       contact: "Contact"
@@ -26,9 +26,9 @@ en:
       ror_ttr_sa: "Ruby on Rails Sample App"
   users:
     new:
-      Su: "Sign up"
+      su: "Sign up"
       content_html: "This will be a signup page for new users."
-  Rails: "Ruby on Rails Tutorial"
+  rails: "Ruby on Rails Tutorial"
   by: "by"
   about: "About"
   contact: "Contact"
@@ -37,3 +37,20 @@ en:
   home: "Home"
   help: "Help"
   log_in: "Log in"
+  wel_app: "Welcome to the Sample App"
+  error: "Registration failed"
+  sign_up: "Sign up"
+  name: "Name"
+  confirmation: "Confirmation"
+  email: "Email"
+  pass: "Password"
+  create: "Create my account"
+  fails: "No user"
+  sign: "Sign up now!"
+  new_user: "New user?"
+  danger: "Invalid email/password combination"
+  log_out: "Log out"
+  profile: "Profile"
+  settings: "Settings"
+  account: "Account"
+  users: "Users"
