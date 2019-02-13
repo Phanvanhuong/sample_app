@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 git_source(:github){|repo| "https://github.com/#{repo}.git"}
 
-ruby "2.5.3"
+ruby "2.6.1"
 
 gem "bootsnap", ">= 1.1.0", require: false
 gem "coffee-rails", "~> 4.2"
@@ -11,7 +11,7 @@ gem "puma", "~> 3.11"
 gem "rails", "~> 5.2.2"
 gem "rubocop", "~> 0.54.0", require: false
 gem "sass-rails", "~> 5.0"
-gem "sqlite3"
+gem "sqlite3", "~> 1.3.6"
 gem "turbolinks", "~> 5"
 gem "uglifier", ">= 1.3.0"
 
@@ -33,6 +33,10 @@ group :test do
 end
 
 gem "bcrypt", "3.1.12"
+gem "faker", "1.7.3"
+gem "kaminari"
+gem "ransack"
+gem "bootstrap-kaminari-views"
 gem "bootstrap-sass", "3.3.7"
 gem "rails-i18n"
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
